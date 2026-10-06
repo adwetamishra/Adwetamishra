@@ -31,4 +31,3 @@ I'm interested in **Artificial Intelligence, Machine Learning, and Generative AI
 ### 📫 Connect with me
 
 - **LinkedIn:** [Adweta Mishra](https://www.linkedin.com/in/adweta-mishra-01a34229b/)
-- **Email:** adwetamishra058@gmail.com
