@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Adweta 👋
 
-<!--
-**adwetamishra/Adwetamishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in **Artificial Intelligence, Machine Learning, and Generative AI**. I enjoy building practical solutions using **Python, NLP, LLMs, and modern AI technologies**.
 
-Here are some ideas to get you started:
+### 🚀 Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Generative AI & LLMs
+- 💬 Natural Language Processing
+- 📄 Document Intelligence
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚙️ AI-powered Applications & APIs
+
+### 🛠️ Tech Stack
+
+**Languages:** Python, Java, SQL  
+**AI/ML:** NLP, LLMs, Generative AI, RAG  
+**Backend:** FastAPI, REST APIs  
+**Cloud:** AWS, Azure, GCP  
+**Data:** Pandas, NumPy, MySQL  
+**Tools:** Git, GitHub, Ollama
+
+### 📌 Currently Exploring
+
+- Large Language Models
+- RAG and AI application development
+- Document Intelligence
+- AI Agents and Automation
+- Building scalable AI solutions
+
+### 📫 Connect with me
+
+- **LinkedIn:** [Adweta Mishra](https://www.linkedin.com/in/adweta-mishra-01a34229b/)
+- **Email:** adwetamishra058@gmail.com
